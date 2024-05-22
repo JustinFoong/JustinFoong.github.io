@@ -56,18 +56,6 @@ body {
     line-height: 1.5;
 }
 
-.profile-links a {
-    display: inline-block;
-    margin: 0 10px;
-    color: #fff;
-    text-decoration: none;
-    transition: transform 0.3s ease;
-}
-
-.profile-links a:hover {
-    transform: scale(1.2);
-}
-
 .arrow {
     position: absolute;
     top: 50%;
